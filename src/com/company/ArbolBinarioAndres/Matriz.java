@@ -1,4 +1,4 @@
-package com.company.Arboles;
+package com.company.ArbolBinarioAndres;
 
 import java.util.LinkedList;
 

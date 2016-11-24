@@ -1,9 +1,9 @@
-package com.company.Arboles;
+package com.company.ArbolBinarioAndres;
 
 /**
  * Created by umantram on 22/11/16.
  */
-public class Main2 {
+public class MainArbol2 {
 
     public static void main(String[] args) {
 

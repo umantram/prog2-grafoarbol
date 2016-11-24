@@ -1,9 +1,11 @@
-package com.company.Arboles;
+package com.company.ArbolBinarioAndres;
+
+import com.company.ArbolBinarioAndres.Matriz;
 
 /**
  * Created by umantram on 22/11/16.
  */
-public class Main3 {
+public class MainMatriz {
 
     public static void main(String[] args) {
 
