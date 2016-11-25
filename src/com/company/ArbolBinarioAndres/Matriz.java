@@ -22,14 +22,19 @@ public class Matriz {
 
                 System.out.println(mov);
 
-                if (i + 1 < matriz.length) {
+                if (this.matriz[i][j] == 2){
 
-                    DFS(i + 1, j, "derecha");
+                    System.exit(0);
                 }
 
                 if (j + 1 < matriz[0].length) {
 
-                    DFS(i, j + 1, "abajo");
+                    DFS(i, j + 1, "derecha");
+                }
+
+                if (i + 1 < matriz.length) {
+
+                    DFS(i + 1, j, "abajo");
                 }
 
                 //System.out.println(lista.poll());
